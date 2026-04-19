@@ -404,3 +404,9 @@ Without data, meaningful insights, reporting, and decision-making are not possib
 - Bridges the gap between raw data and business insights  
 
 ---
+
+## 👨‍💻 About the Author
+- **Name**: Goutam Kuiri
+- **Contact**: gkuiri26@gmail.com
+- **LinkedIn**: [Goutam Kuiri](https://www.linkedin.com/in/goutam-kuiri-949b632a6)
+- **Medium**: [Goutam Kuiri](https://medium.com/@goutamkuiri)
